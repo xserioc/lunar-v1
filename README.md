@@ -12,7 +12,7 @@
 
 #
 
-**Lunar v2** is a feature-packed, modern, browser-inspired tabbed web proxy designed to bypass censorship while maintaining a familiar, browser-like experience.
+**Lunar v2** is a feature-packed, modern, browser-inspired tabbed browser-like experience.
 
 ---
 
